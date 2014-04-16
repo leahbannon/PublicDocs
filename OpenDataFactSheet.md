@@ -1,5 +1,4 @@
 
-
 Open Data at USAID
 
 
@@ -11,18 +10,18 @@ USAID has begun the process of making its data available to the public in format
 In recent years, thousands of Government data resources across fields such as health and medicine, education, energy, public safety, global development, and finance have been posted in machine-readable form for free public use.  Making these information resources accessible, discoverable, and usable by the public has helped fuel entrepreneurship, innovation, and scientific discovery- all of which improve Americans' lives, contribute significantly to job creation, and enhance development outcomes. 	
 
 In accordance with the Open Data Policy, USAID has created the following:
-•	Enterprise Inventory:  An inventory of USAID’s data assets 
-o	Submitted directly to OMB
-•	Public Data Listing:  A listing of data assets that USAID can make publicly available
-o	Posted at www.usaid.gov/data 
-•	Inventory Schedule:  A schedule of how USAID plans to expand, enrich, and open its data inventory
-o	Posted at www.usaid.gov/digitalstrategy 
-•	Customer Feedback Process:  A process for data users to provide feedback on USAID’s public data assets
-o	Posted at www.usaid.gov/digitalstrategy 
-•	Data Publication Process:  A process for releasing data, while ensuring legality and protections for privacy and security:
-o	Posted at www.usaid.gov/digitalstrategy 
-•	Roles and Responsibilities:  Specific points of contact at USAID for various responsibilities around managing information and data
-o	Submitted directly to OMB	
+* Enterprise Inventory:  An inventory of USAID’s data assets 
+  * Submitted directly to OMB
+* Public Data Listing:  A listing of data assets that USAID can make publicly available
+  * Posted at www.usaid.gov/data 
+* Inventory Schedule:  A schedule of how USAID plans to expand, enrich, and open its data inventory
+  * Posted at www.usaid.gov/digitalstrategy 
+* Customer Feedback Process:  A process for data users to provide feedback on USAID’s public data assets
+  * Posted at www.usaid.gov/digitalstrategy 
+* Data Publication Process:  A process for releasing data, while ensuring legality and protections for privacy and security:
+  * Posted at www.usaid.gov/digitalstrategy 
+* Roles and Responsibilities:  Specific points of contact at USAID for various responsibilities around managing information and data
+  * Submitted directly to OMB	
 
 The Information Governance Committee (InfoGov) of USAID’s Management Operations Council (MOC) is overseeing USAID’s approach to Open Data.  A Permanent Working Group (PWG) under InfoGov is coordinating with USAID operating units to identify datasets that may be candidates for public release.	
 
